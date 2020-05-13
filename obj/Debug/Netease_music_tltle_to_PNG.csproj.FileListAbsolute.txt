@@ -1,0 +1,10 @@
+M:\visualstudio\Netease_music_tltle_to_PNG\bin\Debug\Netease_music_tltle_to_PNG.exe.config
+M:\visualstudio\Netease_music_tltle_to_PNG\bin\Debug\Netease_music_tltle_to_PNG.exe
+M:\visualstudio\Netease_music_tltle_to_PNG\bin\Debug\Netease_music_tltle_to_PNG.pdb
+M:\visualstudio\Netease_music_tltle_to_PNG\obj\Debug\Netease_music_tltle_to_PNG.csprojAssemblyReference.cache
+M:\visualstudio\Netease_music_tltle_to_PNG\obj\Debug\Netease_music_tltle_to_PNG.Form1.resources
+M:\visualstudio\Netease_music_tltle_to_PNG\obj\Debug\Netease_music_tltle_to_PNG.Properties.Resources.resources
+M:\visualstudio\Netease_music_tltle_to_PNG\obj\Debug\Netease_music_tltle_to_PNG.csproj.GenerateResource.cache
+M:\visualstudio\Netease_music_tltle_to_PNG\obj\Debug\Netease_music_tltle_to_PNG.csproj.CoreCompileInputs.cache
+M:\visualstudio\Netease_music_tltle_to_PNG\obj\Debug\Netease_music_tltle_to_PNG.exe
+M:\visualstudio\Netease_music_tltle_to_PNG\obj\Debug\Netease_music_tltle_to_PNG.pdb
