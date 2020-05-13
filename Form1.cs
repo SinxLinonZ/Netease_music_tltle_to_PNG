@@ -99,10 +99,14 @@ namespace Netease_music_tltle_to_PNG
                     var info = System.Diagnostics.Process.GetProcessesByName("cloudmusic");
                     if (info != null)
                     {
+                        status.Text = "成功捕获网易云音乐进程";
                         foreach (var process in info)
                         {
-                            status.Text = "成功捕获网易云音乐进程";
-                            title = process.MainWindowTitle;
+                            if (!string.IsNullOrEmpty(process.MainWindowTitle))
+                            {
+                                title = process.MainWindowTitle;
+                                //Console.WriteLine("Log: " + process.MainWindowTitle + " END.");
+                            }
                         }
 
                         var file_path = textBox_save_location.Text + "\\song_info.txt";
